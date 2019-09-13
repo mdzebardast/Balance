@@ -3,6 +3,8 @@ Sample spring boot application with RESTful API for transferring money
 
 The application consists of Swagger ui for REST api and provide two services for sending money between two predefined accounts with a positive starting balance and requesting account balance and list of transactions.
 
+Before starting to run make sure you have git, Maven and JDK 8.
+
 How to run it: 
 
  
